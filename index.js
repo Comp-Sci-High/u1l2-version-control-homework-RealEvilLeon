@@ -1,7 +1,7 @@
 // Version Control Assessment
 // 1. Explain what version control is.
 // Write your answer as a string and store it in the variable below:
-let versionControlExplanation = "";
+let versionControlExplanation = "Version Control Bascially Makes Your Life Easier";
 
 console.log("What is version control?");
 console.log(versionControlExplanation); 
@@ -15,14 +15,14 @@ console.log(versionControlExplanation);
 
 // 2. Explain what a Git repository is.
 // Write your answer as a string and store it in the variable below:
-let gitRepoExplanation = "";
+let gitRepoExplanation = "A github repository is bascially a home to your project, it's where you can edit or look at your files and folders.It's also the place where you could create a website like a documentation assuming your repository is public.";
 
 console.log("What is a Git repository?");
 console.log(gitRepoExplanation); 
 
 // 3. Name the benefits of using version control.
 // Write your answer as an array of strings below, with each string being a benefit.
-let versionControlBenefits = [];
+let versionControlBenefits = ["Easier Collaboration Experience","Track Changes","Revert To Old Changes"];
 
 console.log("What are the benefits of using version control?");
 console.log(versionControlBenefits); 
