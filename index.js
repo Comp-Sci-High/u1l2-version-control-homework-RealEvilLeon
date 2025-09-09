@@ -22,7 +22,7 @@ console.log(gitRepoExplanation);
 
 // 3. Name the benefits of using version control.
 // Write your answer as an array of strings below, with each string being a benefit.
-let versionControlBenefits = ["Easier Collaboration Experience","Track Changes","Revert To Old Changes"];
+let versionControlBenefits = ["Easier Collaboration Experience","Track Changes + Checkpoints","Revert To Old Changes"];
 
 console.log("What are the benefits of using version control?");
 console.log(versionControlBenefits); 
@@ -34,7 +34,7 @@ console.log(versionControlBenefits);
 
 // 4. Explain the steps to pushing changes in Git.
 // Write your answer as an array of steps below, with each step being a string.
-let stepsToPushChanges = [];
+let stepsToPushChanges = ["Step 1: type git add (then ur filenames to stage those changes)","Step 2: type git commit -m(and then a commit message)","Step 3: Type git push origin main"];
 
 console.log("What are the steps to pushing changes in Git?");
 console.log(stepsToPushChanges); 
